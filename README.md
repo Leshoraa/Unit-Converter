@@ -22,7 +22,7 @@
   - Fuel Economy
 - Filtered unit dropdowns based on category
 - Real-time two-way conversion (input A ↔ input B)
-- Detailed explanation of conversion method (e.g. for temperature)
+- Explanation of conversion method (e.g. for temperature)
 - Copy-to-clipboard functionality for conversion explanation
 - Modern and minimalistic design
 
