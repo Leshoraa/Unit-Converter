@@ -40,16 +40,31 @@
 
 
 
+
 ## 📦 Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Leshoraa/Unit-Converter.git
-   ```
+Follow these steps to set up the project on your local machine using **Android Studio**:
 
-2. Open the project in **Android Studio**.
+### 1. Clone the Repository
 
-3. Build and run the app on an emulator or a physical device running **Android 5.0 (API 21)** or higher.
+- Open Android Studio.
+- Click **"Get from Version Control"** on the welcome screen.
+- Paste the repository URL:  
+  `https://github.com/Leshoraa/Unit-Converter.git`
+- Choose a directory and click **Clone**.
+
+### 2. Open the Project
+- After cloning, Android Studio will automatically detect the project and start loading it.
+- If not, use **File > Open**, then select the project folder.
+
+### 3. Wait for Gradle Sync
+- Allow Android Studio to finish syncing the Gradle files.
+- If prompted to update the Gradle plugin or SDK versions, follow the recommendations.
+
+### ✅ Requirements
+- Android Studio (Electric Eel or later recommended)
+- JDK 11 or higher
+- Android SDK API level **21** or higher (minimum SDK: 5.0 Lollipop)
 
 ## 🤝 Contributing
 
