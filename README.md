@@ -50,7 +50,7 @@ Follow these steps to set up the project on your local machine using **Android S
 - Open Android Studio.
 - Click **"Get from Version Control"** on the welcome screen.
 - Paste the repository URL:  
-  ```https://github.com/Leshoraa/Unit-Converter.git```
+  ```bash https://github.com/Leshoraa/Unit-Converter.git```
 - Choose a directory and click **Clone**.
 
 ### 2. Open the Project
