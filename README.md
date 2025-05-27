@@ -46,6 +46,7 @@ You can try the latest beta version of the app by downloading the APK file below
 
 > ⚠️ *This is a beta release and may contain bugs. Feel free to report issues or feedback!*
 
+---
 
 ## 📦 Installation
 
