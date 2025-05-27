@@ -36,6 +36,8 @@
 ## 📱 Screenshots
 
 ![WhatsApp Image 2025-05-27 at 18 03 07_f203ee5b](https://github.com/user-attachments/assets/b0813986-9c5b-43db-aaa5-097537ea167f)
+![WhatsApp Image 2025-05-27 at 18 03 07_1ca7907e](https://github.com/user-attachments/assets/761d5c4a-e28b-4ae8-8ff7-5c83f5875d5a)
+
 
 
 ## 📦 Installation
