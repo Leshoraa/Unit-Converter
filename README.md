@@ -20,7 +20,7 @@
   - Frequency
   - Data Storage
   - Fuel Economy
-- Auto-populated and filtered unit dropdowns based on category
+- Filtered unit dropdowns based on category
 - Real-time two-way conversion (input A ↔ input B)
 - Detailed explanation of conversion method (e.g. for temperature)
 - Copy-to-clipboard functionality for conversion explanation
