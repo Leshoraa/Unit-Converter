@@ -35,8 +35,7 @@
 
 ## 📱 Screenshots
 
-![Image](https://github.com/user-attachments/assets/16833f3e-0e2d-4c92-a583-52e80ae733c7)
-![Image](https://github.com/user-attachments/assets/6a7b7f38-6d9b-4f2d-8947-8091e37db4a2)
+![Image](https://github.com/user-attachments/assets/5169793d-b38e-4df8-a174-9a36c8941471)
 
 ## 📦 Installation
 
