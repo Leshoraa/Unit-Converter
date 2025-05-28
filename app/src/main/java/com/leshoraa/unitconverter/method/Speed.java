@@ -7,7 +7,6 @@ public class Speed {
     private static final Map<String, Double> toMetersPerSecond = new HashMap<>();
 
     static {
-        // Konversi dari satuan ke m/s
         toMetersPerSecond.put("km/h", 1.0 / 3.6);
         toMetersPerSecond.put("mph", 0.44704);
         toMetersPerSecond.put("m/s", 1.0);

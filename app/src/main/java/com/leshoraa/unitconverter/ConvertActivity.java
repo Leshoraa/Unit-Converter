@@ -340,7 +340,7 @@ public class ConvertActivity extends AppCompatActivity {
 
         // Set selected unit ke dropdown1
         if (selectedUnit != null && unitList.contains(selectedUnit)) {
-            unitDropdown1.setText(selectedUnit, false); // false supaya tidak trigger item click
+            unitDropdown1.setText(selectedUnit, false);
             unitDropdown2.setText(getNextUnit(selectedUnit, unitList), false);
         }
 
