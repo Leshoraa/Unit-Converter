@@ -38,23 +38,23 @@
 
 <table>
   <tr>
-    <td align="left">
+    <td align="center">
       <img src="https://github.com/user-attachments/assets/a6d7a5de-d325-4d83-b883-d95149ef00a1" width="200px"/><br>
-      <strong>Home</strong>
+      <strong style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">Home</strong>
     </td>
-    <td align="left">
+    <td align="center">
       <img src="https://github.com/user-attachments/assets/667f5dc0-0103-48e4-bcb3-6f4098934e29" width="200px"/><br>
-      <strong>Search</strong>
+      <strong style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">Search</strong>
     </td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="center">
       <img src="https://github.com/user-attachments/assets/f39c4dd7-44bb-453d-b0b0-71f625f04f9c" width="200px"/><br>
-      <strong>Converter</strong>
+      <strong style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">Converter</strong>
     </td>
-    <td align="left">
+    <td align="center">
       <img src="https://github.com/user-attachments/assets/ec5c67e4-4ffd-499b-a5c8-54f77a931140" width="200px"/><br>
-      <strong>Explanation</strong>
+      <strong style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">Explanation</strong>
     </td>
   </tr>
 </table>
