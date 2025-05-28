@@ -36,9 +36,14 @@
 
 ## 📱 Screenshots
 
-![WhatsApp Video 2025-05-28 at 16 25 33_7d984dbb (1)](https://github.com/user-attachments/assets/a6d7a5de-d325-4d83-b883-d95149ef00a1)
-![WhatsApp Video 2025-05-28 at 16 25 25_b68e4677 (1)](https://github.com/user-attachments/assets/667f5dc0-0103-48e4-bcb3-6f4098934e29)
-![WhatsAppImage2025-05-28at16 25 09_a21ec875](https://github.com/user-attachments/assets/f39c4dd7-44bb-453d-b0b0-71f625f04f9c)
+## Screenshots
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/a6d7a5de-d325-4d83-b883-d95149ef00a1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/667f5dc0-0103-48e4-bcb3-6f4098934e29" width="45%" />
+</p>
+
+![WhatsAppImage2025-05-28at16 25 09_a21ec875](https://github.com/user-attachments/assets/f39c4dd7-44bb-453d-b0b0-71f625f04f9c)  
 ![WhatsAppImage2025-05-28at16 25 08_9e360381](https://github.com/user-attachments/assets/ec5c67e4-4ffd-499b-a5c8-54f77a931140)
 
 
