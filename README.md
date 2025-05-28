@@ -43,8 +43,10 @@
   <img src="https://github.com/user-attachments/assets/667f5dc0-0103-48e4-bcb3-6f4098934e29" />
 </p>
 
-![WhatsAppImage2025-05-28at16 25 09_a21ec875](https://github.com/user-attachments/assets/f39c4dd7-44bb-453d-b0b0-71f625f04f9c)  
-![WhatsAppImage2025-05-28at16 25 08_9e360381](https://github.com/user-attachments/assets/ec5c67e4-4ffd-499b-a5c8-54f77a931140)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/f39c4dd7-44bb-453d-b0b0-71f625f04f9c" />
+  <img src="https://github.com/user-attachments/assets/ec5c67e4-4ffd-499b-a5c8-54f77a931140" />
+</p>
 
 
 ## 📥 Demo App
