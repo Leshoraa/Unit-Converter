@@ -36,29 +36,43 @@
 
 ## 📱 Screenshots
 
-<p float="left" align="center">
-  <figure style="display:inline-block; margin:10px">
-    <img src="https://github.com/user-attachments/assets/a6d7a5de-d325-4d83-b883-d95149ef00a1" width="200px"/>
-    <figcaption><br>Home</figcaption>
-  </figure>
-  <figure style="display:inline-block; margin:10px">
-    <img src="https://github.com/user-attachments/assets/667f5dc0-0103-48e4-bcb3-6f4098934e29" width="200px"/>
-    <figcaption><br>Search</figcaption>
-  </figure>
-</p>
+<style>
+  .image-container {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+  }
+  .image-container img {
+    display: block;
+    margin: auto;
+  }
+  .image-container figcaption {
+    text-align: center;
+    margin-top: 5px;
+  }
+</style>
 
-<p float="left" align="center">
-  <figure style="display:inline-block; margin:10px">
+<div style="text-align: center;">
+  <figure class="image-container">
+    <img src="https://github.com/user-attachments/assets/a6d7a5de-d325-4d83-b883-d95149ef00a1" width="200px"/>
+    <figcaption>Home</figcaption>
+  </figure>
+  <figure class="image-container">
+    <img src="https://github.com/user-attachments/assets/667f5dc0-0103-48e4-bcb3-6f4098934e29" width="200px"/>
+    <figcaption>Search</figcaption>
+  </figure>
+</div>
+
+<div style="text-align: center;">
+  <figure class="image-container">
     <img src="https://github.com/user-attachments/assets/f39c4dd7-44bb-453d-b0b0-71f625f04f9c" width="200px"/>
-    <br>
     <figcaption>Converter</figcaption>
   </figure>
-  <figure style="display:inline-block; margin:10px">
+  <figure class="image-container">
     <img src="https://github.com/user-attachments/assets/ec5c67e4-4ffd-499b-a5c8-54f77a931140" width="200px"/>
-    <br>
     <figcaption>Explanation</figcaption>
   </figure>
-</p>
+</div>
 
 
 ## 📥 Demo App
