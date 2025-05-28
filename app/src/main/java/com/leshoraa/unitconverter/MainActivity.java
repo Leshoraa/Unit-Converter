@@ -1,6 +1,5 @@
 package com.leshoraa.unitconverter;
 
-import android.animation.ObjectAnimator;
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,12 +7,10 @@ import android.text.Editable;
 import android.text.TextWatcher;
 import android.transition.TransitionManager;
 import android.view.View;
-import android.view.ViewGroup;
 
 import androidx.activity.EdgeToEdge;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.constraintlayout.widget.ConstraintSet;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
@@ -105,6 +102,7 @@ public class MainActivity extends AppCompatActivity {
         compactSet.constrainWidth(R.id.search, 0);
 
         binding.recyclerView.addOnScrollListener(new RecyclerView.OnScrollListener() {
+            @SuppressLint("SetTextI18n")
             @Override
             public void onScrolled(@NonNull RecyclerView recyclerView, int dx, int dy) {
                 super.onScrolled(recyclerView, dx, dy);
