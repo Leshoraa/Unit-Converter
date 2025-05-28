@@ -20,7 +20,7 @@
   - Frequency
   - Data Storage
   - Fuel Economy
-- Real-time two-way conversion — Automatically syncs values between Input A and Input B.
+- Real-time two-way conversion — Automatically syncs values between Input A ↔ Input B.
 - Conversion method explanation — Especially useful for complex conversions (e.g., temperature).
 - Copy-to-clipboard support — Quickly copy the explanation for sharing or reference.
 - Searchable unit list — Instantly find the unit you need without scrolling.
