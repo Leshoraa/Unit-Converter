@@ -36,27 +36,28 @@
 
 ## 📱 Screenshots
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/a6d7a5de-d325-4d83-b883-d95149ef00a1" width="200px"/><br>
-  <strong>Home</strong>
-    <img src="https://github.com/user-attachments/assets/667f5dc0-0103-48e4-bcb3-6f4098934e29" width="200px"/><br>
-  <strong>Search</strong>
-</p>
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/667f5dc0-0103-48e4-bcb3-6f4098934e29" width="200px"/><br>
-  <strong>Search</strong>
-</p>
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/f39c4dd7-44bb-453d-b0b0-71f625f04f9c" width="200px"/><br>
-  <strong>Converter</strong>
-</p>
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/ec5c67e4-4ffd-499b-a5c8-54f77a931140" width="200px"/><br>
-  <strong>Explanation</strong>
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github.com/user-attachments/assets/a6d7a5de-d325-4d83-b883-d95149ef00a1" width="200px"/><br>
+      <strong>Home</strong>
+    </td>
+    <td align="left">
+      <img src="https://github.com/user-attachments/assets/667f5dc0-0103-48e4-bcb3-6f4098934e29" width="200px"/><br>
+      <strong>Search</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://github.com/user-attachments/assets/f39c4dd7-44bb-453d-b0b0-71f625f04f9c" width="200px"/><br>
+      <strong>Converter</strong>
+    </td>
+    <td align="left">
+      <img src="https://github.com/user-attachments/assets/ec5c67e4-4ffd-499b-a5c8-54f77a931140" width="200px"/><br>
+      <strong>Explanation</strong>
+    </td>
+  </tr>
+</table>
 
 
 ## 📥 Demo App
