@@ -37,7 +37,7 @@
 ## 📱 Screenshots
 
 ![WhatsApp Video 2025-05-28 at 16 25 33_7d984dbb (1)](https://github.com/user-attachments/assets/a6d7a5de-d325-4d83-b883-d95149ef00a1)
-
+![WhatsApp Video 2025-05-28 at 16 25 25_b68e4677 (1)](https://github.com/user-attachments/assets/667f5dc0-0103-48e4-bcb3-6f4098934e29)
 
 
 ## 📥 Demo App
