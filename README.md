@@ -1,58 +1,102 @@
-<h1 align="center">👋 Hi, I'm Rendra Muktia Affan</h1>
 
-<p align="center">
-  <strong>Software Engineer | Android Developer | Tech Enthusiast</strong><br>
-  <em>From Indonesia 🇮🇩</em>
-</p>
+# Unit Converter
+
+**Unit Converter** is a modern and simple Android application that allows users to convert various units across different measurement categories. The app is designed with a clean and intuitive user interface and built using **Java** in **Android Studio**.
+
+## 🔧 Features
+
+- Convert units across multiple categories:
+  - Temperature
+  - Distance / Length
+  - Speed
+  - Mass / Weight
+  - Area
+  - Volume
+  - Time
+  - Pressure
+  - Energy
+  - Power
+  - Radiation
+  - Frequency
+  - Data Storage
+  - Fuel Economy
+- Real-time two-way conversion — Automatically syncs values between Input A ↔ Input B.
+- Conversion method explanation — Especially useful for complex conversions (e.g., temperature).
+- Copy-to-clipboard support — Quickly copy the explanation for sharing or reference.
+- Searchable unit list — Instantly find the unit you need without scrolling.
+- Smooth animations — Enhances user interaction with fluid visual feedback.
+- Minimalist UI — Clean and intuitive interface for a seamless experience.
+
+## 🛠 Tech Stack
+
+- **Language**: Java  
+- **Framework**: Android SDK  
+- **IDE**: Android Studio  
+- **Architecture**: MVVM-lite pattern (ViewBinding used for cleaner code)
+
+## 📱 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a6d7a5de-d325-4d83-b883-d95149ef00a1" width="200px"/><br>
+      <strong style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">Home</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/667f5dc0-0103-48e4-bcb3-6f4098934e29" width="200px"/><br>
+      <strong style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">Search</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f39c4dd7-44bb-453d-b0b0-71f625f04f9c" width="200px"/><br>
+      <strong style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">Converter</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ec5c67e4-4ffd-499b-a5c8-54f77a931140" width="200px"/><br>
+      <strong style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">Explanation</strong>
+    </td>
+  </tr>
+</table>
+
+
+## 📥 Demo App
+
+You can try the latest beta version of the app by downloading the APK file below:
+
+➡️ **[Unit Converter APK (v1.1-beta)](https://github.com/Leshoraa/UnitConverter-Android/releases/download/v1.1-beta/Unit.Converter.apk)**
+
+> ⚠️ *This is a beta release and may contain bugs. Feel free to report issues or feedback!*
 
 ---
 
-## 💼 Specialization
-- 📱 Android App Development (Java & Firebase)
-- 🌐 Backend Development (PHP & MySQL)
-- 💻 Scripting and Automation (Python)
-- ⚙️ Cross-platform Development (Flutter)
+## 📦 Installation
 
----
+Follow these steps to set up the project on your local machine using **Android Studio**:
 
-## 🎯 Focus Areas
-- 🧠 Learning Android Architecture (MVVM, Jetpack)
-- 🐍 Improving Python scripting
-- 🔧 Backend practices with PHP & MySQL
+### 1. Clone the Repository
 
----
+- Open Android Studio.
+- Click **"Get from Version Control"** on the welcome screen.
+- Paste the repository URL:  
+   ```bash
+   https://github.com/Leshoraa/Unit-Converter.git
+   ```
+- Choose a directory and click **Clone**.
 
-## 🌱 Growth Mindset
-- 🚀 Passionate about continuous learning
-- 🧪 Exploring new tools, frameworks, and best practices
+### 2. Open the Project
+- After cloning, Android Studio will automatically detect the project and start loading it.
+- If not, use **File > Open**, then select the project folder.
 
----
+### 3. Wait for Gradle Sync
+- Allow Android Studio to finish syncing the Gradle files.
+- If prompted to update the Gradle plugin or SDK versions, follow the recommendations.
 
-## 💻 Tech Stack & Tools
+### ✅ Requirements
+- Android Studio (Electric Eel or later recommended)
+- JDK 11 or higher
+- Android SDK API level **21** or higher (minimum SDK: 5.0 Lollipop)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-</p>
+## 🤝 Contributing
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leshoraa&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-Feel free to reach out if you're looking for a collaborator!<br>
-📧 Email: <i>leshoraa@gmail.com</i>
+Contributions are welcome! Feel free to submit pull requests or open issues.
