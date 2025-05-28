@@ -20,11 +20,12 @@
   - Frequency
   - Data Storage
   - Fuel Economy
-- Filtered unit dropdowns based on category
-- Real-time two-way conversion (input A ↔ input B)
-- Explanation of conversion method (e.g. for temperature)
-- Copy-to-clipboard functionality for conversion explanation
-- Modern and minimalistic design
+- Real-time two-way conversion — Automatically syncs values between Input A and Input B.
+- Conversion method explanation — Especially useful for complex conversions (e.g., temperature).
+- Copy-to-clipboard support — Quickly copy the explanation for sharing or reference.
+- Searchable unit list — Instantly find the unit you need without scrolling.
+- Smooth animations — Enhances user interaction with fluid visual feedback.
+- Minimalist UI — Clean and intuitive interface for a seamless experience.
 
 ## 🛠 Tech Stack
 
